@@ -9,7 +9,7 @@ title: Blogs
 ### 2024
 
 <!-- - [Continuum Mechanics](https://caihanlin.com/blogs/aaai-24/) -->
-- [Continuum Mechanics](https://spock-the-wizard/blogs/viscoelasticity/)
+- [Continuum Mechanics](https://spock-the-wizard.github.io/blogs/viscoelasticity/)
 
 <!-- - [24Fall，英国硕士项目申请实录]() -->
 

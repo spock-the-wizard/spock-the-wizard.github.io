@@ -8,10 +8,12 @@ title: Blogs
 
 ### 2024
 
-- [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
-- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
+<!-- - [Continuum Mechanics](https://caihanlin.com/blogs/aaai-24/) -->
+- [Continuum Mechanics](https://spock-the-wizard/blogs/viscoelasticity/)
 
-### 2023
+<!-- - [24Fall，英国硕士项目申请实录]() -->
+
+<!-- ### 2023
 
 - [21岁，何妨吟啸且徐行🎂](https://caihanlin.com/blogs/21yrs)<br>
 - [极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
@@ -32,7 +34,7 @@ title: Blogs
 ### 2020
 
 - [18岁，缓慢受锤的黄金年代🎂](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+- [本科博客，笔记，回忆录](https://mieclance.club/) -->
 
 <br>
 
@@ -44,11 +46,11 @@ title: Blogs
 
 <br>
 
-## Web Star History
+<!-- ## Web Star History
 
 - [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io) 
 - 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)留下一个Star吧
 
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
 
-<br>
+<br> -->

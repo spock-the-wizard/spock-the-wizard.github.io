@@ -9,7 +9,7 @@ title: Publications
 ## Publications
 - 
 <!-- - <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="360"> -->
- **Inverse Rendering of Translucent Objects with Shape-Adaptive Importance Sampling** <br>
+ <a href="https://spock-the-wizard.github.io/shape-adaptive-IR/">**Inverse Rendering of Translucent Objects with Shape-Adaptive Importance Sampling**</a> <br>
 *<u>Jooeun Son</u>, Yucheol Jung, Kyungmin Lee, Jooho Lee, Seungyong Lee*<br>
 Pacific Graphics 2024
   <!-- <br> -->
@@ -17,7 +17,7 @@ Pacific Graphics 2024
 *Soongjin Kim, <u>Jooeun Son</u>, Gwangjin Ju, Joo Ho Lee, Seungyong Lee*<br>
 Pacific Graphics 2024
 
-- **Toonify3D: StyleGAN-based 3D Stylized Face Generator** <br>
+- <a href="https://wonjongg.me/Toonify3D_pages/">**Toonify3D: StyleGAN-based 3D Stylized Face Generator**</a> <br>
 *Wonjong Jang, Yucheol Jung, Hyomin Kim, Gwangjin Ju, Chaewon Son, <u>Jooeun Son</u>, Seungyong Lee*<br>
 SIGGRAPH 2024
 
